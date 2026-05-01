@@ -1,16 +1,17 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**0x-Kenneth2004/0x-Kenneth2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **0x-Kenneth2004**, a builder of things.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Goal: ship something useful every week
+- 🎨 Code is poetry
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`Lua` `Sinatra` `Java`
+
+---
+
+_Weekend coder._
